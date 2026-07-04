@@ -1,6 +1,8 @@
 
 # AI Resume Review Agent (CVSpark)
 
+🔗 **Live Demo:** [ai-resume-review-agent-2026-gtlo.vercel.app](https://ai-resume-review-agent-2026-gtlo.vercel.app)
+
 AI Resume Review Agent is a complete, modern, and production-ready web application built to analyze resumes using artificial intelligence. The app extracts text from user-uploaded PDFs fully in the browser and leverages Google Gemini AI to generate structured assessments, optimization suggestions, role compatibility ratings, and a step-by-step action plan.
 
 ## 🚀 Key Features
