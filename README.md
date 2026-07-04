@@ -1,3 +1,4 @@
+
 # AI Resume Review Agent (CVSpark)
 
 AI Resume Review Agent is a complete, modern, and production-ready web application built to analyze resumes using artificial intelligence. The app extracts text from user-uploaded PDFs fully in the browser and leverages Google Gemini AI to generate structured assessments, optimization suggestions, role compatibility ratings, and a step-by-step action plan.
@@ -105,3 +106,6 @@ This produces a `dist/` directory containing your index.html, JS, and CSS bundle
 * **AI Rewrite Panels**: Interactive side-by-side revision boxes with one-click copy helper buttons.
 * **Role Alignment Panel**: Dynamic select box computing role suitability scores on the fly.
 * **Action Plan**: Vertical timeline ranking CV revision tasks by priority.
+
+
+
